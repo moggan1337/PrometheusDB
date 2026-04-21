@@ -12,6 +12,24 @@
 
 ---
 
+## 🎬 Demo
+![PrometheusDB Demo](demo.gif)
+
+*Time-series database with vector operations*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Query Editor | ![query](screenshots/query-editor.png) |
+| Time Series View | ![timeseries](screenshots/timeseries.png) |
+| Vector Index | ![vector](screenshots/vector-index.png) |
+
+## Visual Description
+Query editor shows PromQL being executed with autocomplete. Time series view displays metrics with resolution controls. Vector index shows ANN search with nearest neighbors.
+
+---
+
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
